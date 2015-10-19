@@ -1,0 +1,8 @@
+excerpt_separator: ""
+pygments: true
+markdown: kramdown
+url: http://davidmbusto.github.io
+title: Alfabeta Digital
+tagline: Tecnología para seres humanos
+description: Un blog sobre edtech
+paginate: 5
